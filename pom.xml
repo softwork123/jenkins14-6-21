@@ -53,7 +53,7 @@
           <!-- <region>eu-central-1</region>  -->
           <objectStoreV2>true</objectStoreV2>
           <uri>https://anypoint.mulesoft.com</uri>; 
-          <applicationName>jenkinsdemo1</applicationName>
+          <applicationName>jenkinsdemo2</applicationName>
           <workerType>MICRO</workerType>
           <workers>1</workers> 
         </cloudHubDeployment> 
